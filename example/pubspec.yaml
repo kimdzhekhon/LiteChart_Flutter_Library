@@ -1,0 +1,22 @@
+name: lite_chart_example
+description: "LiteChart Flutter 패키지 사용 예시 앱"
+version: 1.0.0
+publish_to: 'none'  # 예제 앱은 pub.dev에 배포하지 않음
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lite_chart_flutter:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

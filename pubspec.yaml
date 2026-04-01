@@ -1,0 +1,20 @@
+name: lite_chart_flutter
+description: "Fast, lightweight, and dead-simple Flutter charting library. Line, Bar, and Pie charts with zero external dependencies."
+version: 0.1.0
+homepage: https://github.com/kimdzhekhon/LiteChart-Flutter
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  # 외부 에셋 없음 - 순수 Dart/Canvas 기반
