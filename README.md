@@ -22,9 +22,11 @@
 
 ## 📸 Screenshots
 
-| Bar Chart | Pie Chart | Donut Chart |
-| :---: | :---: | :---: |
-| ![Bar Chart](assets/screenshots/bar_chart_demo.png) | ![Pie Chart](assets/screenshots/pie_chart_demo.png) | ![Donut Chart](assets/screenshots/donut_chart_demo.png) |
+| Line Chart | Bar Chart |
+| :---: | :---: |
+| ![Line Chart](assets/screenshots/line_chart_demo.png) | ![Bar Chart](assets/screenshots/bar_chart_demo.png) |
+| **Pie Chart** | **Donut Chart** |
+| ![Pie Chart](assets/screenshots/pie_chart_demo.png) | ![Donut Chart](assets/screenshots/donut_chart_demo.png) |
 
 ---
 
