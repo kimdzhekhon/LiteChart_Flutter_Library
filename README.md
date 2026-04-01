@@ -20,6 +20,14 @@
 
 ---
 
+## 📸 Screenshots
+
+| Bar Chart | Pie Chart | Donut Chart |
+| :---: | :---: | :---: |
+| ![Bar Chart](assets/screenshots/bar_chart_demo.png) | ![Pie Chart](assets/screenshots/pie_chart_demo.png) | ![Donut Chart](assets/screenshots/donut_chart_demo.png) |
+
+---
+
 ## 📊 지원 차트
 
 - **라인 차트** (`LiteLineChart`) — 베지에 곡선, 그라디언트 영역, 드래그 툴팁
